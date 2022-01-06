@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=JiHa%20Park&fontSize=80&fontColor=000000)
-## Hi there 👋 I'm JiHa Park.
+
+### Hi there 👋 I'm JiHa Park.
 
 안녕하세요! 제 이름은 '박지하'입니다.
 
