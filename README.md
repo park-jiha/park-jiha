@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=e3e3fd&height=210&section=header&text=JiHa%20Park&fontSize=72&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=e6e6fa&height=210&section=header&text=JiHa%20Park&fontSize=72&fontColor=1e1e21)
 ### Hi there 👋 I'm JiHa Park.
 
 안녕하세요! 제 이름은 '박지하'입니다.
