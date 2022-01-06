@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JiHa%20Park&fontSize=60&fontColor=000000)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=JiHa%20Park&fontSize=60&fontColor=000000)
 
 ### Hi there 👋 I'm JiHa Park.
 
