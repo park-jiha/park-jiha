@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D8CEF6&height=210&section=header&text=JiHa%20Park&fontSize=72&fontColor=1e1e21)
 ### Hi there 👋 I'm JiHa Park.
 
-안녕하세요! 제 이름은 '박지하'입니다
+안녕하세요! 제 이름은 '박지하'입니다.
 
 흥미로운 생각을 통해 새로운 일에 도전하는 것을 좋아하는 학생입니다.<br>
 꾸준한 노력으로 많은 것을 이루고 싶습니다.<br>
