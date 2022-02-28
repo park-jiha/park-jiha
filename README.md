@@ -11,10 +11,10 @@ I am a student who likes to challenge new things through interesting thoughts.<b
 I want to achieve a lot with steady efforts.<br>
 Thank you for visiting my profile.:star2:<br>
 
-Research Interest<br>
+### Research Interest<br>
 • Computer Vision<br>
 • Machine Learning and Deep Learning<br>
-Current Focus<br>
+### Current Focus<br>
 • Classification Model<br>
 • Object Detection<br>
 • Human Pose Estimation and Head Pose Estimation<br>
