@@ -11,13 +11,13 @@ I am a student who likes to challenge new things through interesting thoughts.<b
 I want to achieve a lot with steady efforts.<br>
 Thank you for visiting my profile.:star2:<br>
 
-Research Interest
-• Computer Vision
-• Machine Learning and Deep Learning
-Current Focus
-• Classification Model
-• Object Detection
-• Human Pose Estimation and Head Pose Estimation
+Research Interest<br>
+• Computer Vision<br>
+• Machine Learning and Deep Learning<br>
+Current Focus<br>
+• Classification Model<br>
+• Object Detection<br>
+• Human Pose Estimation and Head Pose Estimation<br>
 
 <!--
 **park-jiha/park-jiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
