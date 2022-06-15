@@ -17,7 +17,7 @@ Thank you for visiting my profile.:star2:<br>
 ### 💬 Current Focus
 • Classification Model<br>
 • Object Detection<br>
-• Human Pose Estimation and Head Pose Estimation<br>
+• Human Pose Estimation<br>
 
 <!--
 **park-jiha/park-jiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
