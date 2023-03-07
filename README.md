@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D8CEF6&height=210&section=header&text=JiHa%20Park&fontSize=72&fontColor=1e1e21)
-### Hi there 👋 I'm JiHa Park.
+### Hi there 👋 I'm Ji-Ha Park.
 
 안녕하세요! 제 이름은 '박지하'입니다.
 
@@ -12,12 +12,10 @@ I want to achieve a lot with steady efforts.<br>
 Thank you for visiting my profile.:star2:<br>
 
 ### 💬 Research Interest
-• Computer Vision<br>
+• Brain-Computer Interface (BCI)<br>
 • Machine Learning and Deep Learning
 ### 💬 Current Focus
-• Classification Model<br>
-• Object Detection<br>
-• Pose Estimation and Action Recognition<br>
+• Brain-to-Speech (BTS)<br>
 
 <!--
 **park-jiha/park-jiha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
