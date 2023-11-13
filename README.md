@@ -7,13 +7,13 @@
 꾸준한 노력으로 많은 것을 이루고 싶습니다.<br>
 제 프로필에 방문해주셔서 감사합니다.:blush:<br> -->
 
-I am a student who likes to challenge new things through interesting thoughts.<br>
+<!-- I am a student who likes to challenge new things through interesting thoughts.<br>
 I want to achieve a lot with steady efforts.<br>
-Thank you for visiting my profile.:star2:<br>
+Thank you for visiting my profile.:star2:<br>-->
 
 ### 💬 Research Interest
 • Brain-Computer Interface (BCI)<br>
-• Machine Learning and Deep Learning
+• Artificial Intelligence
 ### 💬 Current Focus
 • Brain-to-Speech (BTS)<br>
 
